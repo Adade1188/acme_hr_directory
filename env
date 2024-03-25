@@ -1,0 +1,2 @@
+DB_NAME = 'acme_notes_categories_db'
+PORT = 3000
